@@ -73,5 +73,3 @@ Feel free to connect with us on [LinkedIn](Your_LinkedIn_Profile) or [Twitter](Y
 Drive into the Future with AutoPilotHub! 🚗🚀
 
 ---
-
-**Note**: Ensure to replace placeholder texts like `[URL of the repository]`, `[name-of-the-project]`, `Your_LinkedIn_Profile`, `Your_Twitter_Profile`, and `Your_Support_Link` with actual content relevant to your repository.
